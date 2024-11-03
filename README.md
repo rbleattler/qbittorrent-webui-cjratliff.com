@@ -19,20 +19,20 @@ WebUI\RootFolder=/path/to/qbittorrent-webui-cjratliff.com
 
 ## Styling
 ### Colors
-    Red: #ef596f
-    Orange: #be5046
-    Yellow: #e5c07b
-    Green: #89ca78
-    Blue: #61afef
-    Indigo: #d55fde
-    Violet: #ba5fde
-    Primary: #00d9ff
-    Background: #202020;
-    Background-Alt: #242424;
-    Background-Alt2: #4e4e4e;
-    Text: #c2c2c2;
-    Text-Alt: #d3d3d3;
-    Line-Color: #2F3437;
+- ![#00d9ff](https://placehold.co/15x15/00d9ff/00d9ff.png) `Primary: #00d9ff`
+- ![#202020](https://placehold.co/15x15/202020/202020.png) `Background: #202020`
+- ![#242424](https://placehold.co/15x15/242424/242424.png) `Background-Alt: #242424`
+- ![#4e4e4e](https://placehold.co/15x15/4e4e4e/4e4e4e.png) `Background-Alt2: #4e4e4e`
+- ![#c2c2c2](https://placehold.co/15x15/c2c2c2/c2c2c2.png) `Text: #c2c2c2`
+- ![#d3d3d3](https://placehold.co/15x15/d3d3d3/d3d3d3.png) `Text-Alt: #d3d3d3`
+- ![#2F3437](https://placehold.co/15x15/2F3437/2F3437.png) `Line-Color: #2F3437`
+- ![#ef596f](https://placehold.co/15x15/ef596f/ef596f.png) `Red: #ef596f`
+- ![#be5046](https://placehold.co/15x15/be5046/be5046.png) `Orange: #be5046`
+- ![#e5c07b](https://placehold.co/15x15/e5c07b/e5c07b.png) `Yellow: #e5c07b`
+- ![#89ca78](https://placehold.co/15x15/89ca78/89ca78.png) `Green: #89ca78`
+- ![#61afef](https://placehold.co/15x15/61afef/61afef.png) `Blue: #61afef`
+- ![#d55fde](https://placehold.co/15x15/d55fde/d55fde.png) `Indigo: #d55fde`
+- ![#ba5fde](https://placehold.co/15x15/ba5fde/ba5fde.png) `Violet: #ba5fde`
 
 ### Fonts
     Google Sans
