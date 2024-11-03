@@ -3,7 +3,6 @@
 
 ![Screenshot](qBittorrent-webui-theme-CJRatliff.com.jpg)
 
-
 ## Installation
 First, you need to download a copy of the latest release (or clone / download this repository for the latest).
 
@@ -18,8 +17,8 @@ WebUI\AlternativeUIEnabled=true
 WebUI\RootFolder=/path/to/qbittorrent-webui-cjratliff.com
 ```
 
-
-## Colors
+## Styling
+### Colors
     Red: #ef596f
     Orange: #be5046
     Yellow: #e5c07b
@@ -35,6 +34,9 @@ WebUI\RootFolder=/path/to/qbittorrent-webui-cjratliff.com
     Text-Alt: #d3d3d3;
     Line-Color: #2F3437;
 
-
-## Fonts Used
+### Fonts
     Google Sans
+
+
+## Other
+*This is for qBittorent versions 5.x and higher, or qBittorent < 5.x, please use [v1.4.0](https://github.com/Carve/qbittorrent-webui-cjratliff.com/releases/tag/v1.4.0)*
