@@ -689,7 +689,7 @@ ul.filterList span.link {
 
 ul.filterList span.link:hover {
     background-color: var(--darkmode-primary);
-    color: var(--color-text-white);
+    color: var(--darkmode-background) !important;
 }
 
 span.link :last-child {
@@ -705,7 +705,7 @@ span.link :is(img, button) {
 
 .selectedFilter > span.link {
     background-color: var(--color-background-blue);
-    color: var(--color-text-white);
+    color: var(--darkmode-background);
 }
 
 .subcategories,
