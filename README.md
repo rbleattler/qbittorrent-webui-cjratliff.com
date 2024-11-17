@@ -9,6 +9,12 @@ First, you need to download a copy of the latest release (or clone / download th
 - [ ] Under Tools->Preferences->WebUI enable Use alternative WebUI.
 - [ ] Choose a location that points to `/path/to/qbittorrent-webui-cjratliff.com`
 - [ ] Restart qBittorrent or refresh your browser for changes to take effect.
+- [ ] *Optional* Add content-security-policy headers under Tools->Preferences->WebUI > Add custom HTTP headers
+
+`content-security-policy: default-src 'self'; style-src 'self' 'unsafe-inline' raw.githubusercontent.com use.fontawesome.com; img-src 'self' theme-park.dev raw.githubusercontent.com data:; script-src 'self' 'unsafe-inline'; object-src 'self'; form-action 'self'; frame-ancestors 'self'; font-src 'self' use.fontawesome.com;`
+
+![optional-installation-step1](qBittorrent-webui-theme-CJRatliff.com-optional-installation-step1.jpg)
+
 
 You can also change these settings via the config file. The relevant entries are:
 
