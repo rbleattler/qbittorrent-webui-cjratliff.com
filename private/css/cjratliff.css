@@ -8,6 +8,7 @@
 	--darkmode-text: #c2c2c2;
 	--darkmode-text-alt: #d3d3d3;
 	--color-text-default: var(--darkmode-background);
+	--color-text-white: #fff;
 	--darkmode-line-color: #2F3437;
 	--highlight-color--darkred: #b83739;
 	--highlight-color--red: #ce292c;
