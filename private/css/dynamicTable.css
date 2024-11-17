@@ -21,7 +21,7 @@
 
 .dynamicTable tbody tr.selected,
 .dynamicTable tbody tr:hover {
-    background-color: var(--darkmode-background-light);
+    background-color: var(--darkmode-text-alt);
     color: var(--darkmode-background)
 }
 
