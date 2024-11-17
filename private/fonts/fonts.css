@@ -53,7 +53,7 @@
 @font-face {
     font-family: "Google Sans";
     font-display: swap;
-    src: url(GoogleSans/GoogleSans-Black.woff) format("woff"), url(GoogleSans/GoogleSans-Black.ttf) format("truetype");
+    src: url(GoogleSans/GoogleSans-Bold.woff) format("woff"), url(GoogleSans/GoogleSans-Bold.ttf) format("truetype");
     font-weight: 900;
     font-style: normal
 }
@@ -61,7 +61,7 @@
 @font-face {
     font-family: "Google Sans";
     font-display: swap;
-    src: url(GoogleSans/GoogleSans-BlackItalic.woff) format("woff"), url(GoogleSans/GoogleSans-BlackItalic.ttf) format("truetype");
+    src: url(GoogleSans/GoogleSans-BoldItalic.woff) format("woff"), url(GoogleSans/GoogleSans-BoldItalic.ttf) format("truetype");
     font-weight: 900;
     font-style: italic
 }
