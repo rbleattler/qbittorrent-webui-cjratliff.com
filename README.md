@@ -8,7 +8,7 @@ First, you need to download a copy of the latest release (or clone / download th
 
 - [ ] Under Tools->Preferences->WebUI enable Use alternative WebUI.
 - [ ] Choose a location that points to `/path/to/qbittorrent-webui-cjratliff.com`
-- [ ] Restart qBittorrent or refresh your browser for changes to take effect.
+- [ ] Restart qBittorrent and refresh your browser for changes to take effect.
 - [ ] *Optional* Add content-security-policy headers under Tools->Preferences->WebUI > Add custom HTTP headers
 
 ```
